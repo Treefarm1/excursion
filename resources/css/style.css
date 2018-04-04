@@ -1,6 +1,12 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: Verdana;
+}
+
+
 .heading {
   color: white;
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   text-align: center;
@@ -9,20 +15,20 @@
    color: Aquamarine;
    font-size: 16px;
  }
- .body {
-   background-color: black;
-   text-align: center;
+
  }
  #excursion_p {
    color: grey;
-   font-family: Verdana;
    font-size: 21px;
  }
  .travel_guide, .coming_soon {
    color: white;
-   font-family: Verdana;
    font-weight: 300;
    font-size: 42px;
 
 
+ }
+ .c_excursion {
+   color: grey;
+   text-align: right;
  }
